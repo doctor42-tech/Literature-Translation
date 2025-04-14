@@ -13,10 +13,8 @@
 ## 使用指南
 ### 组件安装
 1.确保在本地计算机正确安装了python程序  
-2.在python终端对"docx"以及"openai"两个模组进行安装, 其中"docx"确保程序能够对word文档进行处理；"openai"是调用DeepSeek的必要组件。 参考代码如下：  
-  pip install python-docx   
-  pip install openai  
-
+2.在python终端对"docx"以及"openai"两个模组进行安装, 其中"docx"确保程序能够对word文档进行处理；"openai"是调用DeepSeek的必要组件    
+3.点击本项目主页右上角绿色"code"按钮，将本项目克隆至本地  
 
 
 ### 操作指引
