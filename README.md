@@ -17,3 +17,4 @@
 pip install pip install python-docx   
 pip install openai    
 
+### 操作指引
